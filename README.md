@@ -6,7 +6,7 @@
 [![Requests](https://img.shields.io/badge/requests-2.31.0%2B-green)](https://pypi.org/project/requests/)
 [![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-4.12.0%2B-green)](https://pypi.org/project/beautifulsoup4/)
 
-*A robust, professional-grade Python web scraper for extracting book data from [Books to Scrape](https://books.toscrape.com/).*
+*A robust, Python web scraper for extracting book data from [Books to Scrape](https://books.toscrape.com/).*
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Features
 
-Built with industry-standard practices, this project demonstrates clean and maintainable Python code:
+Built this project demonstrates clean and maintainable Python code:
 
 - **🏗️ Object-Oriented Architecture (OOP):** Modular design using a dedicated `BookScraper` class for better state management and reusability.
 - **✨ Type Hinting:** Fully type-hinted methods ensuring better IDE integration, static analysis, and code readability.
